@@ -1,3 +1,6 @@
+# WON THE BEST MUSIC HACK AT HACK MIT (WENT TO BOSTON TO COMPETE)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
