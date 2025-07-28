@@ -1,5 +1,6 @@
 # WON THE BEST MUSIC HACK AT HACK MIT (WENT TO BOSTON TO COMPETE)
 
+View the history of how we won here: (https://www.linkedin.com/posts/sachin-ved-gupta_hackmit-musicproduction-ai-activity-7242514021269069824-g9Es?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmlB0MBTKqgxNzZZEh9IbFpWQ42BDEyEgA) 
 
 # React + Vite
 
