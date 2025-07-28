@@ -2,6 +2,9 @@
 
 View the history of how we won here: (https://www.linkedin.com/posts/sachin-ved-gupta_hackmit-musicproduction-ai-activity-7242514021269069824-g9Es?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmlB0MBTKqgxNzZZEh9IbFpWQ42BDEyEgA) 
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6fc5f4e5-af27-449a-b45f-fb85edd89b00" />
+
+
 # ABOUT
 
 🏆 Winner at HackMIT! 🎶
